@@ -19,7 +19,7 @@ int	main ()
 	}
 	sum /= num;
 
-	printf("%d", sum);
+	printf("Output: %d", sum);
 
 	return (0);
 }
